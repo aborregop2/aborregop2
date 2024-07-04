@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <!--
 **aborregop2/aborregop2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
