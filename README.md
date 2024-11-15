@@ -3,7 +3,7 @@
 ```yaml
 name: Adrián
 located_in: Barcelona, Spain
-current_job: Administration and services staff
+current_job: Tech lead
 education:
   [
     "Computer Engineering",
