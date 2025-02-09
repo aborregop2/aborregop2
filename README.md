@@ -3,7 +3,6 @@
 ```yaml
 name: Adrián
 located_in: Barcelona, Spain
-current_job: Tech Lead && ICT developer
 education:
   [
     "Computer Engineering",
@@ -14,8 +13,8 @@ fields_of_interests:
   [
     "AI",
     "Data Science",
-    "Machine Learning",
     "UX/UI",
+    "Machine Learning",
     "Math",
     "Physics",
   ]
