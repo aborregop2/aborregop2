@@ -1,23 +1,25 @@
 ## Hi there 👋
 
 ```yaml
-name: Adrián
-located_in: Barcelona, Spain
-education:
-  [
-    "Computer Engineering",
-    "Scientific and technological bachelor's",
-  ]
-
-fields_of_interests:
-  [
-    "AI",
-    "Data Science",
-    "UX/UI",
-    "Machine Learning",
-    "Math",
-    "Physics",
-  ]
+{
+  name: Adrián
+  located_in: Barcelona, Spain
+  education:
+    [
+      "Computer Engineering",
+      "Scientific and technological bachelor's",
+    ]
+  
+  fields_of_interests:
+    [
+      "AI",
+      "Data Science",
+      "UX/UI",
+      "Machine Learning",
+      "Math",
+      "Physics",
+    ]
+}
 ```
 
 
